@@ -18,8 +18,7 @@ sys.path.insert(0, os.path.abspath('..'))
 # -- Project information -----------------------------------------------------
 
 project = 'Locality Sensitive Hashing'
-copyright = '2019, Rohith Saranga, Rikil Gajarla, Badri Vishal Kasuba, JSNS Rahul'
-author = 'Rohith Saranga, Rikil Gajarla, Badri Vishal Kasuba, JSNS Rahul'
+
 
 
 # -- General configuration ---------------------------------------------------
